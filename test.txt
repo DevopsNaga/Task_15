@@ -1,0 +1,4 @@
+echo "New update to the script" >> test_script.sh
+git add test_script.sh
+git commit -m "Updated test script"
+git push origin main
